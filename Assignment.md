@@ -32,21 +32,18 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 ### A. Milestones and Issues
 
-- ![A screenshot of the milestones](build-your-portfolio-github-workflow-essentials-AlvinLimo\screenshots\milestones.png)
-- ![A screenshot of some issues](build-your-portfolio-github-workflow-essentials-AlvinLimo\screenshots\issues.png)
+- ![A screenshot of the milestones](C:\Users\alvin\OneDrive\Documents\ICSPROJ2\build-your-portfolio-github-workflow-essentials-AlvinLimo\screenshots\milestones.png)
+- ![A screenshot of some issues](C:\Users\alvin\OneDrive\Documents\ICSPROJ2\build-your-portfolio-github-workflow-essentials-AlvinLimo\screenshots\issues.png)
 
 ### B. Project Board
 
-- ![This is the Project Board](build-your-portfolio-github-workflow-essentials-AlvinLimo\screenshots\project-board.png)
+- ![This is the Project Board](C:\Users\alvin\OneDrive\Documents\ICSPROJ2\build-your-portfolio-github-workflow-essentials-AlvinLimo\screenshots\project-board.png)
 
 ### C. Branching
 
-- ![These are some branches in the project](build-your-portfolio-github-workflow-essentials-AlvinLimo\screenshots\branches.png)
+- ![These are some branches in the project](C:\Users\alvin\OneDrive\Documents\ICSPROJ2\build-your-portfolio-github-workflow-essentials-AlvinLimo\screenshots\branches.png)
 
 ### D. Pull Requests
 
-- ![Some of the closed Pull Requests](build-your-portfolio-github-workflow-essentials-AlvinLimo\screenshots\pull-requests.png)
+- ![Some of the closed Pull Requests](C:\Users\alvin\OneDrive\Documents\ICSPROJ2\build-your-portfolio-github-workflow-essentials-AlvinLimo\screenshots\pull-requests.png)
 
-### E. Merge Conflict Resolution
-
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
